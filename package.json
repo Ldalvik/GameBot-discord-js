@@ -1,0 +1,30 @@
+{
+  "name": "gamebot-discord",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A game bot made to allow easy copy/paste configuration in other discord bots.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ldalvik/GameBot-discord-js.git"
+  },
+  "keywords": [
+    "game",
+    "bot",
+    "discord",
+    "js",
+    "javascript"
+  ],
+  "author": "Julian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ldalvik/GameBot-discord-js/issues"
+  },
+  "homepage": "https://github.com/Ldalvik/GameBot-discord-js#readme",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
